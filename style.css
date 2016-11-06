@@ -9,19 +9,21 @@
     left: 0;
     margin: auto;
 }
+
 .woman {
     position: absolute;
-    background: url(img/women.jpg) no-repeat;  
+    background: url(img/women.png) no-repeat;
     width: 252px;
     height: 48px;
     margin-top: 320px;
     margin-left: 80px;
 }
+
 .man {
     position: absolute;
-    background: url(img/man.jpg) no-repeat;  
+    background: url(img/man.png) no-repeat;
     width: 252px;
     height: 48px;
     margin-top: 320px;
     margin-left: 360px;
-    }
+}
