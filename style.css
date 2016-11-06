@@ -9,3 +9,19 @@
     left: 0;
     margin: auto;
 }
+.woman {
+    position: absolute;
+    background: url(img/women.jpg) no-repeat;  
+    width: 252px;
+    height: 48px;
+    margin-top: 320px;
+    margin-left: 80px;
+}
+.man {
+    position: absolute;
+    background: url(img/man.jpg) no-repeat;  
+    width: 252px;
+    height: 48px;
+    margin-top: 320px;
+    margin-left: 360px;
+    }
