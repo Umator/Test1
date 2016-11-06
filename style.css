@@ -1,6 +1,11 @@
 .fon {
     position: absolute;
-     background: url("img/banner_fon.jpg") no-repeat center center;
-    width: 700;
-    height: 388;
+    background: url("img/banner_fon.jpg") no-repeat center center;
+    width: 700px;
+    height: 388px;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
 }
